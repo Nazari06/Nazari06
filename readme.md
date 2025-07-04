@@ -38,15 +38,15 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>  -->
 
 <a href="https://gitlab.com/Nazari06" target="blank">
-  <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="nasratullah-shafiq" height="30" width="40"/></a>
+  <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="mahmood-nazari" height="30" width="40"/></a>
 
 <a href="https://mahmoodnazari06@gmail.com" target="blank">
-  <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="nasratullah-shafiq" height="30" width="40" /></a>
+  <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="mahmood-nazari" height="30" width="40" /></a>
 
-  <a href="https://www.instagram.com/nasratullah_sh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasratullah-shafiq" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/m_nzr11" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmood-nazari" height="30" width="40" /></a>
   
-<a href="https://www.facebook.com/nasratullah.shafiq.7" target="blank">
+<a href="https://www.facebook.com/share/1BjLVW2mud/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" height="35" alt="mahmood-nazari" /></a>
 
 <a href="https://t.me/Nazari06" target="blank">
